@@ -1,6 +1,16 @@
 # eslint-config-teacode
 ## Setup 
 
+#### install:
+```bash
+npm i eslint-config-teacode -D
+
+# or 
+
+yarn add eslint-config-teacode -D
+```
+
+
 #### Add to `package.json`:
 ```json
 {
