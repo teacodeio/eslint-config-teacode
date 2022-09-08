@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mattjarzeb/eslint-config-teacode.git"
+    "url": "git+https://github.com/teacodeio/eslint-config-teacode.git"
   },
   "keywords": [
     "eslint",
@@ -32,7 +32,7 @@
     "typescript": "*"
   },
   "bugs": {
-    "url": "https://github.com/mattjarzeb/eslint-config-teacode/issues"
+    "url": "https://github.com/teacodeio/eslint-config-teacode.git/issues"
   },
-  "homepage": "https://github.com/mattjarzeb/eslint-config-teacode#readme"
+  "homepage": "https://github.com/teacodeio/eslint-config-teacode.git#readme"
 }
