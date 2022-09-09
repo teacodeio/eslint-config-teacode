@@ -19,7 +19,7 @@ yarn add eslint-config-teacode -D
   "prettier": "eslint-config-teacode/prettier",
   "devDependencies": {
     "eslint": "^7.0.0 || ^8.0.0",
-    "eslint-config-teacode": "^1",
+    "eslint-config-teacode": "^2",
     "typescript": "*"
   }
 }
@@ -37,5 +37,9 @@ Config require both `eslint` and  `typescript` to be installed.
 Both Prettier and Eslint rules might depend on developers preferences.
 Instructions how to change prettier rules can be found [here](https://prettier.io/docs/en/configuration.html#sharing-configurations),
 and eslint rules are easily modifiable by adding `rules` in `.eslintrc`.
+
+
+## A11y
+Version `^1` configured without a11y
 
 
