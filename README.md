@@ -1,4 +1,6 @@
 # eslint-config-teacode
+
+For **React**. To se for node see http:// 
 ## Setup 
 
 #### install:
@@ -16,7 +18,7 @@ yarn add eslint-config-teacode -D
 {
   "prettier": "eslint-config-teacode/prettier",
   "devDependencies": {
-    "eslint": "^7",
+    "eslint": "^7.0.0 || ^8.0.0",
     "eslint-config-teacode": "^1",
     "typescript": "*"
   }
