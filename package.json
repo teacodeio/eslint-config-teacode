@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-teacode",
-  "version": "1.0.3",
+  "version": "2.0.0",
   "description": "Teacode eslint config for React",
   "main": "index.js",
   "scripts": {
