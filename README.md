@@ -1,6 +1,6 @@
 # eslint-config-teacode
 
-For **React**. To se for node see http:// 
+For **React**. To see for Node version check [eslint-config-teacode-node](https://github.com/teacodeio/eslint-config-teacode-node.git#readme)
 ## Setup 
 
 #### install:
